@@ -38,6 +38,21 @@ li {
 }
 
 /* 'p' element is the child element of the 'footer' element */
-footer p {
+/* footer p {
   font-size: 16px;
+} */
+
+/* using 'class' and 'id' as selectors makes  */
+#author {
+  font-style: italic;
+  font-size: 18px;
+}
+
+#copyright {
+  font-size: 16px;
+}
+
+.related-author {
+  font-size: 18px;
+  font-weight: bold;
 }
