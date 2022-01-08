@@ -42,7 +42,8 @@ li {
   font-size: 16px;
 } */
 
-/* using 'class' and 'id' as selectors makes  */
+/* using 'class' and 'id' as selectors makes it easier to apply CSS on specific elements */
+/* we mostly use 'class' in case there needs to be changes made in the future */
 #author {
   font-style: italic;
   font-size: 18px;
@@ -55,4 +56,8 @@ li {
 .related-author {
   font-size: 18px;
   font-weight: bold;
+}
+
+.related {
+  list-style: none;
 }
