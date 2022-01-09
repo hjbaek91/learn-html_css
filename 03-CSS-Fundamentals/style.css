@@ -78,3 +78,24 @@ aside {
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
 }
+
+/* using a 'pseudo-class' quickly selects elements as selectors */
+/* 'li:first-child' selects each of the first 'li' child elements existing in HTML */
+li:first-child {
+  font-weight: bold;
+}
+
+/* 'li:last-child' selects each of the last 'li' child elements existing in HTML */
+li:last-child {
+  font-style: italic;
+}
+
+/* 'li:nth-child' specifically selects child elements manually (ex. number, odd, even) */
+/* li:nth-child(2) {
+  color: red;
+} */
+
+/* 'pseudo-classes' will not work well on descendant selectors because they do not categorize these classes by their specific elements */
+article p:first-child {
+  color: red;
+}
