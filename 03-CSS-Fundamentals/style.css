@@ -99,3 +99,29 @@ li:last-child {
 article p:first-child {
   color: red;
 }
+
+/* Styling links (LVHA) */
+/* targets all elements with 'href' attributes */
+a:link {
+  color: #1098ad;
+  /* getting rid of underlines on links */
+  text-decoration: none;
+}
+
+/* phase where links were clicked previously */
+a:visited {
+  color: #1098ad;
+}
+
+/* phase when the cursor is pointed on the link */
+a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline orangered;
+}
+
+/* phase when the link is actually clicked */
+a:active {
+  background-color: black;
+  font-style: italic;
+}
