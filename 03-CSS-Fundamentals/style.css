@@ -127,3 +127,24 @@ a:active {
 }
 
 /* NOTE: using chrome devtools can display how CSS effects are shown on the browser */
+
+/* -----CSS Theory #1: Conflict Between Selectors----- */
+/* If there are multiple selectors with the same CSS property, follow the higest-to-lowest 'priority' rule */
+/* id <- class <- element <- universal(*) */
+
+/* highest priority */
+#copyright {
+  color: red;
+}
+
+.copyright {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: green;
+}
