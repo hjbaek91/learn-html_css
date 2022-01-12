@@ -1,13 +1,20 @@
-/* we can apply a CSS effect to various elements at the same time */
-h1,
-h2,
-h3,
-h4,
-p,
-li {
-  font-family: sans-serif;
+/* -----CSS Theory #2: Inheritance and the Universal Selector */
+/* inherited values does not change their values from their parent elements if they already have the same declaration */
+
+/* selects every single element on the webpage (has lowest priority) */
+/* useful for applying certain properties for all elements without getting inherited */
+/* * {
+  border-top: 10px solid #1098ad;
+} */
+
+/* the body selector passes down all the declared properties (usually for 'text' elements) */
+body {
   color: #444;
+  font-family: sans-serif;
+  border-top: 10px solid #1098ad;
 }
+
+/* we can apply a CSS effect to various elements at the same time */
 
 h1,
 h2,
@@ -133,7 +140,7 @@ a:active {
 /* id <- class <- element <- universal(*) */
 
 /* highest priority */
-#copyright {
+/* #copyright {
   color: red;
 }
 
@@ -147,4 +154,8 @@ a:active {
 
 footer p {
   color: green;
+} */
+
+nav {
+  font-size: 18px;
 }
