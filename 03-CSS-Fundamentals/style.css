@@ -159,3 +159,13 @@ footer p {
 nav {
   font-size: 18px;
 }
+
+/* -----CSS Theory #3: The CSS Box Model----- */
+
+/* Defines how elements are displayed on the webpage and how they are sized */
+
+/* CONTENT: Text, images, etc. */
+/* BORDER: A line around the element, still 'inside' of the element */
+/* PADDING: Invisible space around the content, 'inside' of the element */
+/* MARGIN: Space 'outside' of the element, between elements */
+/* Fill Area: Area that gets filled with 'background color' or 'background image' */
