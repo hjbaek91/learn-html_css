@@ -29,6 +29,7 @@ body {
   /* shorthand method */
   padding: 20px 40px;
   margin-bottom: 60px;
+  height: 80px;
 }
 
 nav {
@@ -50,6 +51,7 @@ aside {
   /* padding-top: 50px;
   padding-bottom: 50px; */
   padding: 50px 0;
+  width: 500px;
 }
 
 /* we can apply a CSS effect to various elements at the same time */
@@ -209,3 +211,10 @@ footer p {
 /* PADDING: Invisible space around the content, 'inside' of the element */
 /* MARGIN: Space 'outside' of the element, between elements */
 /* Fill Area: Area that gets filled with 'background color' or 'background image' */
+
+.post-img {
+  /* using '%' for sizing makes the image adapt to the size of the webpage */
+  width: 100%;
+  /* 'height: auto' overlaps the height specified on HTML */
+  height: auto;
+}
