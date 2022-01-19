@@ -15,6 +15,8 @@
 }
 
 /* the body selector passes down all the declared properties (usually for 'text' elements) */
+
+/* PAGE SECTIONS */
 body {
   color: #444;
   font-family: sans-serif;
@@ -64,6 +66,7 @@ aside {
 
 /* we can apply a CSS effect to various elements at the same time */
 
+/* SMALLER ELEMENTS */
 h1,
 h2,
 h3 {
