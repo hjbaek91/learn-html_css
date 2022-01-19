@@ -237,3 +237,12 @@ footer p {
 
 /* Default Elements: body, main, header, footer, section, nav, aside, div, h1-h6, p, ul, ol, li, etc. */
 /* With CSS: 'display: block' */
+
+/* 2. Inline Elements */
+/* Occupies only the space 'necessary for its content' */
+/* Causes 'no line-breaks' after or before the element */
+/* Box model applies in a different way: 'heights and widths do not apply' */
+/* 'Paddings and margins' are applied 'only horizontally' (left and right) */
+
+/* Default Elements: a, img, strong, em, button, etc. */
+/* With CSS: 'display: inline' */
