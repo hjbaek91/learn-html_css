@@ -39,7 +39,6 @@ body {
   /* shorthand method */
   padding: 20px 40px;
   margin-bottom: 60px;
-  height: 80px;
 }
 
 nav {
@@ -249,3 +248,25 @@ footer p {
 
 /* Default Elements: a, img, strong, em, button, etc. */
 /* With CSS: 'display: inline' */
+
+/* 3. Inline-Block Elements */
+/* - Looks like inline from the 'outside', behaves like block-level on the 'inside' */
+/* - Occupies only content's space */
+/* - Causes no line-breaks */
+/* - Box-model applies as showed */
+
+/* With CSS: 'display: inline-block' */
+
+nav a:link {
+  /* background-color: orangered;
+  margin: 20px;
+  padding: 20px;
+  display: block; */
+  margin-right: 30px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+nav a:link:last-child {
+  margin-right: 0;
+}
