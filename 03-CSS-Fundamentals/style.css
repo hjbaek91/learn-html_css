@@ -226,3 +226,14 @@ footer p {
   /* 'height: auto' overlaps the height specified on HTML */
   height: auto;
 }
+
+/* -----CSS Theory #4: Types of Boxes----- */
+
+/* 1. Block-Level Elements */
+/* - Elements are formateed visually as 'blocks' */
+/* - Elements occupy '100% of parent element's width', no matter the content */
+/* - Elements are 'stacked vertically' by default, one after another */
+/* - the box-model 'applies as showed' earlier */
+
+/* Default Elements: body, main, header, footer, section, nav, aside, div, h1-h6, p, ul, ol, li, etc. */
+/* With CSS: 'display: block' */
