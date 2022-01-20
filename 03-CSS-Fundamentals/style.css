@@ -302,3 +302,32 @@ button {
   bottom: 50px;
   right: 50px;
 }
+
+/* Pseudo-elements: elements that do not exist in HTML, but can still be selected and styled in CSS (ex. 1st letter of a word) */
+h1::first-letter {
+  font-style: normal;
+  margin-right: 5px;
+}
+
+/* 'adjacent sibling' (element that come right after another sibling element) */
+/* h3 + p::first-line {
+  color: red;
+} */
+
+/* after/before pseudo-elements */
+h2 {
+  position: relative;
+}
+
+h2::after {
+  content: "TOP";
+  background-color: #ffe70e;
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  display: inline-block;
+  padding: 5px 10px;
+  position: absolute;
+  top: -15px;
+  right: -45px;
+}
