@@ -21,6 +21,9 @@ body {
   color: #444;
   font-family: sans-serif;
   border-top: 10px solid #1098ad;
+
+  /* setting the position of the body element to 'relative' in order to apply 'absolute' positioning to the inner elements */
+  position: relative;
 }
 
 .container {
@@ -269,4 +272,33 @@ nav a:link {
 
 nav a:link:last-child {
   margin-right: 0;
+}
+
+/* -----CSS Theory #5: Absolute Positioning----- */
+
+/* 1. Normal Flow */
+/* - Default positioning */
+/* - Elements is 'in flow' */
+/* - Elements are simply laid out according to their order in the HTML code */
+/* --- */
+/* position: relative */
+
+/* 2. Absolute {ositioning */
+/* - Element is removed from the normal flow: 'out of flow' */
+/* - No impact on surrounding elements, might overlap them */
+/* - We us top, bottom, left, or right to offset the element from its 'rlatively positioned container' */
+/* --- */
+/* position: absolute */
+
+button {
+  font-size: 22px;
+  padding: 20px;
+  cursor: pointer;
+
+  /* taking the element out of the normal flow */
+  position: absolute;
+  /* top: 50px;
+  left: 50px; */
+  bottom: 50px;
+  right: 50px;
 }
