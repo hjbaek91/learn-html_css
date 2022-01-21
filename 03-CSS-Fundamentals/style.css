@@ -335,10 +335,21 @@ h2::after {
 /* Developer Skill #1: Googling and Reading Documentation */
 /* - Googling what we do not know is common amongst developers, so don't feel bad! */
 
-/* --- */
-
 /* - Google related keywords */
 /* - Find the most accurate information you need to solve your problem */
 /* - There are various information on the internet, so only find the information that you need */
 /* - Apply given solution to your project and observe the result */
-/* - Some major websites: MDN, StackOverflow */
+/* - Some major websites: MDN, Stack Overflow */
+
+/* --- */
+
+/* Developer Skill #2: Debugging and Asking Questions */
+
+/* DEBUGGING */
+/* - Figure out where the bug first occurred */
+/* - Check your code or use the devleloper tool for more detail (especially for bugs that are not visible) */
+/* - Use the 'HTML validator tool' for checking HTML bugs */
+/* - Use the 'diffchecker tool' to compare code */
+/* - Fix the code and check your result */
+/* - Avoid writing complex selectors as much as possible */
+/* - Ask questions using developer platforms such as 'Stack Overflow' if you cannot solve the problem */
