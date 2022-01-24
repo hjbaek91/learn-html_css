@@ -40,11 +40,18 @@
         margin: 40px;
 
         /* FLEXBOX */
+        /* takes up only the necessary horizontal space */
+        /* vertical space is determined by the tallest element */
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
       }
     </style>
   </head>
   <body>
+    <!-- flex container -->
     <div class="container">
+      <!-- flex items -->
       <div class="el el--1">HTML</div>
       <div class="el el--2">and</div>
       <div class="el el--3">CSS</div>
