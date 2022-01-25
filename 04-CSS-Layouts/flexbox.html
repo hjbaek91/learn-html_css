@@ -50,7 +50,28 @@
         /* vertical space is determined by the tallest element */
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: flex-start;
+        gap: 30px;
+      }
+
+      /* .el {
+        margin-right: 40px;
+      } */
+
+      .el--1 {
+        /* used for overriding a 'single' element */
+        align-self: flex-start;
+        /* order: 2; */
+      }
+
+      .el--5 {
+        align-self: stretch;
+        order: 1;
+      }
+
+      .el--6 {
+        /* changing the order of the elements displayed */
+        order: -1;
       }
     </style>
   </head>
