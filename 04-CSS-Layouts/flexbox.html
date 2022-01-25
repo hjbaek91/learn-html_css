@@ -51,17 +51,30 @@
         display: flex;
         align-items: center;
         justify-content: flex-start;
-        gap: 30px;
+        /* gap: 30px; */
       }
 
-      /* .el {
-        margin-right: 40px;
-      } */
+      .el {
+        /* 
+        DEFAULTS:
+        flex-grow: 0 (allows items to grow as large as they can within the container);
+        flex-shrink: 1 (allows items to shrink to fit the container);
+        flex-basis: auto (width); 
+        */
+
+        /* flex-basis: 200px; */
+        /* flex-shrink: 0; */
+        /* flex: 0 0 200px; */
+
+        /* flex-grow: 1; */
+        flex: 1;
+      }
 
       .el--1 {
         /* used for overriding a 'single' element */
         align-self: flex-start;
         /* order: 2; */
+        /* flex-grow: 3; */
       }
 
       .el--5 {
