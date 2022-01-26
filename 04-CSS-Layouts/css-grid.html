@@ -14,7 +14,7 @@
       }
       .el--3 {
         background-color: green;
-        height: 150px;
+        /* height: 150px; */
       }
       .el--4 {
         background-color: goldenrod;
@@ -46,8 +46,16 @@
         /* - CSS Grid is 'not meant to replace flexbox!' Instead, they work perfectly together. Need a '1D' layout? Use flexbox. Need a '2D' layout? Use CSS Grid */
 
         display: grid;
-        grid-template-columns: 250px 250px 150px 150px;
-        grid-template-rows: 300px 200px;
+
+        /* using the 'fr' unit on CSS Grid makes the grid items flexible by filling the available space */
+        /* setting the size of a grid item to 'auto' sets to item to only fill the necessary space */
+
+        /* grid-template-columns: 1fr 1fr 1fr auto; */
+        /* grid-template-rows: 300px 200px; */
+
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: 1fr 1fr;
+        height: 500px;
 
         /* gap: 30px; */
         column-gap: 30px;
