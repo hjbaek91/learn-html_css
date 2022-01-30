@@ -54,7 +54,34 @@ c) Reading Experience
 - Decrease letter spacing in headlines, if it looks unnatural (this will come from experience)
 - Experiment with all caps for short titles. Make them small and bold and decrease letter-spacing
 - Usually, don't justify text
-- Don't center long text blocks. Small blocks are fine.
+- Don't center long text blocks. Small blocks are fine
+
+<!--  -->
+
+1. COLORS
+
+a) Choose the Right Color
+
+- Make the main color 'match your website's personality: colors convety meaning!
+- Use a 'good color tone!' Don't choose a random tone or CSS named colors
+
+b) Establish a Color System
+
+- You need at least two types of colors in your 'color palette': a 'main color' and a 'grey color'
+- With more experience, you can add more color: 'accent (secondary) colors' (use a tool)
+- For diversity, create lighter and darket 'versions (tints and shades)
+
+c) When and how to use Colors
+
+- Use your main color to 'draw attention' to the most important elements on the page
+- Use colors to add 'interesting accents' or make 'entire components or sections' stand out
+- You can try to use your color strategically in 'images and illustrattions'
+
+d) Colors and Typography
+
+- On dark colored backgrounds, try to 'use a tint of the background' ('lighter version') for text
+- Text should usually not be completely black. 'Lighten it up' it looks heavy and uninviting
+- 'Don't make text too light!' Use a tool to check contrast between text and blackground colors
 
 <!--  -->
 
