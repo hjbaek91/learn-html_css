@@ -58,7 +58,7 @@ c) Reading Experience
 
 <!--  -->
 
-1. COLORS
+2. COLORS
 
 a) Choose the Right Color
 
@@ -82,6 +82,34 @@ d) Colors and Typography
 - On dark colored backgrounds, try to 'use a tint of the background' ('lighter version') for text
 - Text should usually not be completely black. 'Lighten it up' it looks heavy and uninviting
 - 'Don't make text too light!' Use a tool to check contrast between text and blackground colors
+
+<!--  -->
+
+3. IMAGES AND ILLUSTRATIONS
+
+a) Using Good Images
+
+- Diffrent types of images: 'product photos, storytelling photos, illustrations, patterns'
+- Use images to support your website's 'message and story'. So only use 'relevant images!'
+- Prefer 'original images'. If not possible, use 'original-looking' stock images (not generic ones!)
+
+b) Use Images well
+
+- Try to show 'real people' to trigger user's emotions
+- If necessary, 'crop images' to fit your message.
+- Experiment 'combining' photos, illustrations and patterns
+
+c) Handling Text on Images
+
+- Method #1: Darker or brighten image (completely or partially, using a gradient)
+- Method #2: Position text into neutral image area
+- Method #3: Put text in a box
+
+d) Some Technical Details
+
+- To account for 'high-res screens', make image dimensions '2x as big' as their desplayed size
+- 'Compress images' for a lower file size and better performance
+- When using multiple images side-by-side, make sure they have the 'exact same dimensions'
 
 <!--  -->
 
