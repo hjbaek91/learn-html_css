@@ -113,6 +113,30 @@ d) Some Technical Details
 
 <!--  -->
 
+4. ICONS
+
+a) Use Good Icons
+
+- Use a 'good icon pack', there are tons of 'free' and paid icons packs.
+- Use only one icon pack. 'Don't mix' icons from different icon packs.
+- Use 'SVG icons' or 'icon fonts' for good image scaling. Don't use bitmap image formats (.jpg and .png)!
+- Adjust to website personality! 'Roundness, weight and filled/outlined' depend on typography.
+
+b) When to use Icons
+
+- Use icons to 'provide visual assistance' to text.
+- Use icons for 'product feature blocks'.
+- Use icons 'associated with actions', and 'label them' (unless no space or icon is 100% clear).
+- Use icons 'as bullet points'.
+
+c) Use Icons Well
+
+- To keep icons neutral, 'use same color as text'. To draw more attention, 'use different color'.
+- Don't confuse your users: icons need to make sense and 'fit the text or action!'
+- Don't make icons larger than what they 'were designed for'. If needed, 'enclose them in a shape'.
+
+<!--  -->
+
 -WEBSITE PERSONALITY-
 
 - Serious/Elegant: For luxury and elegance, based on thin serif typefaces, golden or pastel colors, and big high-quality images.
