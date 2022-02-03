@@ -137,6 +137,24 @@ c) Use Icons Well
 
 <!--  -->
 
+5. SHADOWS
+
+a) Use Shadows Well
+
+- You 'don't have to use' shadows! Only use them if it makes sense for the 'website personality'.
+- Use shadows 'in small doses': don't add shadows to every element!
+- Go light on shadows, don't make them 'too dark'!
+
+b) Use Shadows in the Right Situation
+
+- Use 'small shadows' for smaller elements that should stand out (to draw attention).
+- Use 'medium-sized shadows' for larger areas that should stand out a bit more.
+- Use 'large shadows' for elements that should really 'float above' the interface.
+- Experiment with 'changing shadows' on mouse interaction (click and hover).
+- Bonus: Experiment with 'glows' (colored shadows)
+
+<!--  -->
+
 -WEBSITE PERSONALITY-
 
 - Serious/Elegant: For luxury and elegance, based on thin serif typefaces, golden or pastel colors, and big high-quality images.
