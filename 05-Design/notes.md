@@ -151,7 +151,7 @@ b) Use Shadows in the Right Situation
 - Use 'medium-sized shadows' for larger areas that should stand out a bit more.
 - Use 'large shadows' for elements that should really 'float above' the interface.
 - Experiment with 'changing shadows' on mouse interaction (click and hover).
-- Bonus: Experiment with 'glows' (colored shadows)
+- Bonus: Experiment with 'glows' (colored shadows).
 
 <!--  -->
 
