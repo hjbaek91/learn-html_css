@@ -155,6 +155,16 @@ b) Use Shadows in the Right Situation
 
 <!--  -->
 
+6. BORDER-RADIUS
+
+a) Use Border-Radius Well
+
+- Use border-radius to 'increase the playfulness' and fun of the design, to make it 'less serious'.
+- Typefaces have a certain roundness: make sure that border-radius 'matches the roundness!'
+- Use border-radius on 'buttons, images, around icons, standout sections and other elements'.
+
+<!--  -->
+
 -WEBSITE PERSONALITY-
 
 - Serious/Elegant: For luxury and elegance, based on thin serif typefaces, golden or pastel colors, and big high-quality images.
