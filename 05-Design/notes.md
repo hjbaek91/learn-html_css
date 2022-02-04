@@ -165,6 +165,30 @@ a) Use Border-Radius Well
 
 <!--  -->
 
+7. WHITESPACE
+
+a) Why Whitespace?
+
+- The right amount of whitespace makes designs look 'clean, modern and polished'.
+- Whitespace communicates how different pieces of information are 'related to one another'.
+- Whitespace implies 'invisible relationships between the elements' of a layout.
+
+b) Where to Use Whitespace
+
+- Use tons of whitespace 'between sections'.
+- Use a lot of whitespace 'between groups of elements'.
+- Use whitespace 'between elements'.
+- Inside 'group of elements', try to use whitespace 'instead of lines'.
+
+c) How Much Whitespace
+
+- 'The more some elements' (or groups of elements) 'belong together, the closer they should be!'
+- Start with 'a lot of whitespace', maybe even too much! Then 'remove whitespace' from there.
+- Match 'other design choices'. If you have big text or big icons, you need more whitespace.
+- Try a hard rule, such as using 'multiples of 16px' for all spacing.
+
+<!--  -->
+
 -WEBSITE PERSONALITY-
 
 - Serious/Elegant: For luxury and elegance, based on thin serif typefaces, golden or pastel colors, and big high-quality images.
