@@ -189,6 +189,34 @@ c) How Much Whitespace
 
 <!--  -->
 
+7. VISUAL HIERARCHY
+
+a) What is Visual Hierarchy?
+
+- Visual hierarchy is about 'establishing which elements' of a design 'are the most important ones'.
+- Visual hierarchy is about 'drawing attention' to these most important elements.
+- Visual hierarchy is about 'defining a path for users', to 'guide' them through the page.
+- We use a combination of 'position, size, colors, spacing, borders, and shadows' to establish a meaningful visual hierarchy between elements/components.
+
+b) Visual Hierarchy Fundamentals
+
+- Position important elements 'closer to the top of the page', where they get more attention (attention flows down the page).
+- Use images mindfully, as they draw 'a lot of attention' (larger images get more attention).
+- Whitespace creates separation, so 'use whitespace strategically' to emphasize elements.
+
+c) Visual Hierarchy for Text Elements
+
+- For text elements, use 'font size, font weight, color, and whitespace' to convey importance.
+- What text elements to emphasize? 'Titles, sub-titles, links, buttons, data points, icons' (At the same time, we can 'de-emphasize' less important texts).
+
+d) Visual Hierarchy between Components
+
+- Emphasize an importnat component using 'background color, shadow, or border' (or multiple).
+- Try emphasizing some component A over component B by 'de-emphasizing component B'.
+- What components to emphasize? 'Testimonials, call-to-action sections, highlight sections, preview cards, forms, pricing tables, important rows/columns in tables, etc.'
+
+<!--  -->
+
 -WEBSITE PERSONALITY-
 
 - Serious/Elegant: For luxury and elegance, based on thin serif typefaces, golden or pastel colors, and big high-quality images.
