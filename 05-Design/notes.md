@@ -189,7 +189,7 @@ c) How Much Whitespace
 
 <!--  -->
 
-7. VISUAL HIERARCHY
+8. VISUAL HIERARCHY
 
 a) What is Visual Hierarchy?
 
@@ -214,6 +214,38 @@ d) Visual Hierarchy between Components
 - Emphasize an importnat component using 'background color, shadow, or border' (or multiple).
 - Try emphasizing some component A over component B by 'de-emphasizing component B'.
 - What components to emphasize? 'Testimonials, call-to-action sections, highlight sections, preview cards, forms, pricing tables, important rows/columns in tables, etc.'
+
+<!--  -->
+
+9. User Experience (UX)
+
+- 'User Interface (UI)' : the visual presentation of a product. It's how the graphical interface looks and feels like.
+- 'User Experience (UX)' : the overall experience the user has while interacting with the product.
+
+a) UI and UX Design
+
+- Both need to be intertwined well in order to create a good webpage.
+
+b) Goals
+
+- A website or application 'exists for a reason': a 'user' has a goal for 'visiting' it, and a 'business' has a goal for 'creating' it.
+
+c) Usability
+
+- Don't design complicated layouts. don't reinvent the wheel. 'Use patterns that users know'.
+- Make your call-to-action the 'most prominent element', and make the 'text descriptive'.
+- Use 'blue text' and 'underlined text' only for links!
+- Animations should have a 'purpose' and be 'fast': between 200 and 500 ms.
+- In forms, align labels and fields in a 'single vertical line', to make the form 'easier to scan'.
+- Offer users 'good feeback' for all actions: form errors, form success, etc. [web apps]
+- Place action buttons where they will 'create an effect' (law of locality) [web apps]
+
+d) Website Content
+
+- Use a 'descriptive, keyword-focused headline' on your main page. Don't be vague or fancy!
+- Only include 'relevant information', efficiently! 'Cut out fluff' and make the content 100% clear.
+- Use 'simple words!' Avoid technical jargon and 'smart-sounding' words.
+- Break up long text with 'sub-headings, images, block quotes, bullet points', etc.
 
 <!--  -->
 
