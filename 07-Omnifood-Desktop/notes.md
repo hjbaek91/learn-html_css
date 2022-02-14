@@ -71,3 +71,39 @@
 - Install 'analytics software' (e.g. Google Analytics or Fathom) to get statistics about website useres. This may 'inform future changes' in the site structure and content.
 
 - A 'blog' that is updated regularly is a good way to keep users ocming back, and is also good for SEO.
+
+# Responsive Design
+
+- Design technique to make a webpage adjust its layout and visual style to 'any possible screen size' (windo or viewport size).
+
+- In practice, this means that responsive design makes websites usable on all devices, such as 'desktop computers, tablests, and mobile phones'.
+
+- It's a set of practices, 'not a separate technology. It's all just CSS!
+
+## Fluid Layouts
+
+- To allow webpage to adapt to the 'current viewport' width (or even height).
+
+- Use % (or vh / vw) unit instead of px for elements that 'should adapt to viewport (usually layout)'.
+
+- Use max-width instead of width.
+
+## Responsive Units
+
+- Use 'rem' unit instead of px for most lengths.
+
+- To make it easy to 'scale the entire layout down' (or up) automatically.
+
+- Helpful trick: setting 1rem to 10px for easy calculations.
+
+## Flexible Images
+
+- By default, images 'don't scale automatically' as we change the viewport, so we need to fix that.
+
+- Always use % for image dimensions, together with the max-width property.
+
+## Media Queries
+
+- Bring responsive sites to life!
+
+- to change CSS styles on 'certain viewport widths' (called breakpoints).
