@@ -52,16 +52,13 @@ body {
   color: #555;
 }
 
-.test {
-  background-color: red;
-  /* width: 1000px; */
-  /* if the container is larger than the specified max-width, then the width of the element is equal to the value that was specified for max-width */
-  /* if the container is less than the specified max-width, then the width of the element will be 100% of the container element's width */
-  /* max-width: 1000px; */
+.hero {
+  max-width: 130rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
 
-  max-width: 50rem;
-  padding: 4rem;
-  font-size: 2rem;
-  color: #fff;
-  /* 1rem = 16px; */
+.hero-img {
+  width: 100%;
 }
