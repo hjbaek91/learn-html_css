@@ -37,9 +37,31 @@ Default: 1
   box-sizing: border-box;
 }
 
+/* the value of 'rem' can controlled using the 'html' element */
+html {
+  /* font-size: 10px; */
+  /* 10px / 16px = 0.625 = 62.5% */
+  /* Percentage of user's browser font=size setting */
+  font-size: 62.5%;
+}
+
 body {
   font-family: sans-serif;
   line-height: 1;
   font-weight: 400;
   color: #555;
+}
+
+.test {
+  background-color: red;
+  /* width: 1000px; */
+  /* if the container is larger than the specified max-width, then the width of the element is equal to the value that was specified for max-width */
+  /* if the container is less than the specified max-width, then the width of the element will be 100% of the container element's width */
+  /* max-width: 1000px; */
+
+  max-width: 50rem;
+  padding: 4rem;
+  font-size: 2rem;
+  color: #fff;
+  /* 1rem = 16px; */
 }
