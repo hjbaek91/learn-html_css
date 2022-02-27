@@ -5,7 +5,7 @@ Instead, 1rem = 1em = 16px */
 /* BELOW 1344px (Smaller desktops) */
 /**************************/
 
-/* 1344 / 16 = 84em */
+/* 1350 / 16 = 84em */
 @media (max-width: 84em) {
   .hero {
     max-width: 120rem;
@@ -16,6 +16,6 @@ Instead, 1rem = 1em = 16px */
   }
 
   .gallery {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
 }
